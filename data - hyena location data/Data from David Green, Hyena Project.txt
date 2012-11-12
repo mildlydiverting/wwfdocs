@@ -1,0 +1,153 @@
+From: anna roberts <robertsanna@me.com>
+Subject: Data from David Green, Hyena Project
+Date: 12 November 2012 09:06:55 GMT
+To: Kim Plowright <kim@storythings.com>, Basil Stephens <basilstephens@me.com>, Johannah Sargent <JSargent@wwf.org.uk>, Colin Butfield <cbutfield@wwf.org.uk>
+
+Hi team,
+
+Great news - David Green from the Mara hyena project has released some data for us to play with STRICTLY on a test basis. Please read through what I have said to him and his response below so you understand the basis upon which he has released the data.
+Please also look at the link to his website to get more context for the data.
+I have been through all the data in detail with him, and seen it mapped on his research program, so once you've had a look through please call me and we can talk further about what the data is telling us, how we can represent it, and how it fits with the rest of the Pod.
+
+A
+
+
+
+Begin forwarded message:
+From: "David S. Green" <davidsethgreen@gmail.com>
+Date: 11 November 2012 07:58:41 GMT
+To: anna roberts <robertsanna@icloud.com>
+Cc: juliargreenberg@gmail.com
+Subject: Re: WWF Pods Project
+
+Hello Anna,
+
+I've discussed this with Kay, and we have some concerns about how
+everything would be displayed on the webpage, however, we do think
+this is an exciting project so we're interested to see what your team
+can come up with. We can't commit to signing on just yet, but we would
+definitely like to give you the opportunity to see what you have in
+mind. One of our major concerns is framing this data as it directly
+relates to the questions within my dissertation, rather than simply
+presenting it as ecological monitoring.
+
+At any rate, to this email I've attached 3 files:
+- WAFL.xls
+- HNDY.xls
+- CountData.xls
+
+WAFL.xls and HNDY.xls are the alpha/highest ranking animal (WAFL -
+Waffles) and the lowest ranking animal (HNDY - Handyman) in our North
+clan that we follow in the Mara Triangle. WAFL has a cub that was born
+on 4Jul2012, and HNDY currently does not have any young cubs. These
+are all of the points that we've received from their collars for the
+month of September. Our collars are scheduled to take locations of the
+hyenas every hour from 4PM in the evening to 10AM in the morning, with
+an additional location at 1PM. I believe that the titles within the
+file are pretty self explanatory.
+
+The next file (CountData.xls) is the spreadsheet with the animal
+location data that I have mapped in their territory on September 21.
+The methodology for this part is that I drive a loop within the
+territory and count everything I see, in addition to taking a location
+whenever a vehicle comes within 100m of my vehicle. Once again, I
+believe the titles are pretty self explanatory in the file, but let me
+know if you need additional information. One thing-- these locations
+are taken in UTMs (not lat/long), and the region is 36S (I hope this
+makes sense to your hackers!).
+
+Also-- I've put some time into my webpage and it has a lot of
+information about my background and other activities (for any kind of
+backstory that they may want to use). The address is
+https://www.msu.edu/~greend31.
+
+We're excited to see what you can come up with! Please don't hesitate
+to contact me if you require any additional information or have any
+questions.
+
+Thanks again!
+
+Dave
+
+On 11/9/12, anna roberts <robertsanna@icloud.com> wrote:
+Hi Dave,
+
+So here I am in the UK, dreaming of Kenya and wishing I was still there! I
+hope things are going well with you.
+
+I have explained your work in more detail to the rest of the Pods team here,
+and they are all keen to explore how we may collaborate with you which is
+great. Have you been able to get Kay's advice yet? I realise that, because
+we have made contact rather late in the day for phase one of the Pods
+project, and because you don't have an existing relationship with WWF, there
+is much to be discussed and agreed between us about the nature of the
+relationship. However, I am hoping that, pending the ironing out of these
+details, you will be happy to jump in for the test period. If so, here is
+how we would need to proceed in the next week or so:
+
+As you know, on this last trip to Mara we set up some of the Mara Pod
+inputs. These were field updates from five contributors (covering
+human-elephant conflict, rhino monitoring and anti-poaching and Mara River
+projects, a number of camera traps, and the automated data from the Mara
+River courtesy of Chris and Amanda. We are now entering a week of 'hack
+days' in London where our web designers (www.storythings.com) and
+data-loving coders will take what is coming from these Mara inputs and
+create and test interesting and new ways for our audience to engage with
+conservation work on the ground. What we would love to be able to do is to
+give these super-brain nerdy guys some of your data to play with and see
+what they come up with.I understand that it is a big consideration for you
+to release your data, but hope that knowing it is just for a closed test
+period, and that you can pull out at any point, will give you the confidence
+to join in. The process may, I hope, be an interesting and constructive one
+for your own purposes too.
+
+The minimum our coders need is a spreadsheet of figures (the raw data),
+showing the fields you use, and then they can extrapolate 'dummy' data from
+this. However, a larger amount of your real data would be preferable if we
+can access it. We are interested in seeing what they can do with your
+wildlife and tourist vehicle count data as well as the hyena collar data.
+Its the 'whole picture' approach of your work that is great for the Pods. It
+would be great to also get your input on what the data is showing and how
+you are interpreting it along the way.
+
+Once we have some 'products' from the hacks, we will feed them back to you
+and discuss if / how we could take things forward, and if its the right
+thing on both sides. I reiterate that this is the a prototype test so we're
+all discovering as we go!
+
+I'll go with your suggestions, but if you are happy to proceed, perhaps we
+should start with something like one month of data (you choose the month):
+- all of the 'count' data
+- collar data from a couple of hyenas (I would ask you to suggest which
+individuals) to keep the volume manageable.
+
+As we discussed when we met, were we to enter into a full collaboration with
+you, your work would not be represented as part of WWF but would always to
+credited to you with your logos and links to your own websites, as you
+dictate. We're not interested in taking credit for anyone else's work, but
+want to show that we are working collaboratively with partners in achieving
+our shared goals.
+
+So, if you are happy to proceed, please let me know how much of your time it
+will take to pull the data together, and if you will have the time to send
+it to us in the next few days. I'm sorry there's a time pressure I don't
+like to rush you.
+
+Let me know if you have any questions, or if there's any more information
+you need.
+
+Many thanks
+
+Anna
+
+
+-- 
+David S. Green | PhD Candidate
+Ecology, Evolutionary Biology, and Behavior
+Department of Zoology
+Michigan State University
+DavidSethGreen@gmail.com | https://www.msu.edu/~greend31
+
+
+
+
