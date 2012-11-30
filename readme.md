@@ -3,10 +3,14 @@ README: WWF Living Planet Pods Data
 
 This repo contains static files of data for use in the WWF Pods project. Subfolders should give you some idea of what the contained data consists of, and there is a seperate readme in many of the folders with background information
 
+If you are working on a project with any of this data, we'd really appreciate it if you could use a standard WWF header. This is provided as an HTML fragment + CSS in the Kit Of Parts (indluded as a zip file in the WWF Design Elements folder - sorry, I can't figure out git submodules)
+
+If you have ANY QUESTIONS this weekend about this, please email me - kim@storythings.com or kim.plowright@gmail.com - my mobile number should be available from any WWF people around / on the brief.
+
 Key Data
 ========
 
-We have created a system which ingests data sources (eg, CSV files published from google spreadsheets) and indexes them, making them available through a JSON API.
+We have created a system which ingests data sources (eg, CSV files published from google spreadsheets) and indexes them, making them available through a JSON API. It's nickname is the tabulator - there's a seperate readme for it available.
 
 Interesting sources are:
 
